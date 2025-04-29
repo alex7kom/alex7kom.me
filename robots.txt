@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 1
+Clean-param: from
+
+Host: https://alex7kom.me
+Sitemap: https://alex7kom.me/sitemap/
